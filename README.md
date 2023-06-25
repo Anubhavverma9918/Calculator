@@ -1,2 +1,2 @@
 # calc
-https://anubhavverma9918.github.io/calc/
+https://anubhavverma9918.github.io/Calculator/
